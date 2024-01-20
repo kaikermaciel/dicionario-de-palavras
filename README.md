@@ -1,4 +1,4 @@
-# Projeto de Algoritmos e Estrutura de Dados
+# Projeto de Dicionário
 
 ## Trabalho em Grupo: Dicionários e Índice Remissivo com Uso de Arquivos e Stop Words
 
@@ -31,7 +31,3 @@ Este projeto tem como objetivo a implementação de um sistema eficiente para ma
 5. **Persistência de Dados:**
    - Implementamos métodos para salvar e carregar o estado do dicionário e do índice remissivo, garantindo a preservação dos dados entre execuções.
 
-### Como Executar o Projeto
-
-1. **Requisitos:**
-   - Está descrito as informações do trabalho em relatorio.md
