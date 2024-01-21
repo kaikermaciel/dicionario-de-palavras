@@ -31,3 +31,24 @@ Este projeto tem como objetivo a implementação de um sistema eficiente para ma
 5. **Persistência de Dados:**
    - Implementamos métodos para salvar e carregar o estado do dicionário e do índice remissivo, garantindo a preservação dos dados entre execuções.
 
+### Intruções de Execução
+
+##Compilação Windows:
+
+gcc -o NOME_DO_EXECUTAVEL .\main.c .\listase.c .\dicionarioestatico.c .\dicionariodinamico.c .\trataLivro.c .\v2palavras.c -lm
+
+##Compilação Linux
+
+gcc -o NOME_DO_EXECUTAVEL main.c listase.c dicionarioestatico.c dicionariodinamico.c trataLivro.c v2palavras.c -lm
+
+##Execução
+
+tdif local tdif global
+arquivo dos artigos
+arquivo das stop_words
+arquivo do livro
+
+C -> Ocorrencia das palavras || C amor
+L -> Palavras que começam com determinada letra || L a
+P -> Indice remissivo || P z
+F -> Encerrar Programa
