@@ -33,15 +33,15 @@ Este projeto tem como objetivo a implementação de um sistema eficiente para ma
 
 ### Intruções de Execução
 
-##Compilação Windows:
+## Compilação Windows:
 
 gcc -o NOME_DO_EXECUTAVEL .\main.c .\listase.c .\dicionarioestatico.c .\dicionariodinamico.c .\trataLivro.c .\v2palavras.c -lm
 
-##Compilação Linux
+## Compilação Linux
 
 gcc -o NOME_DO_EXECUTAVEL main.c listase.c dicionarioestatico.c dicionariodinamico.c trataLivro.c v2palavras.c -lm
 
-##Execução
+## Execução
 
 tdif local tdif global
 arquivo dos artigos
