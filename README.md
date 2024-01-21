@@ -35,11 +35,11 @@ Este projeto tem como objetivo a implementação de um sistema eficiente para ma
 
 ## Compilação Windows:
 
-gcc -o NOME_DO_EXECUTAVEL .\main.c .\listase.c .\dicionarioestatico.c .\dicionariodinamico.c .\trataLivro.c .\v2palavras.c -lm
+gcc -o NOME_DO_EXECUTAVEL .\main.c .\listase.c .\dicionarioestatico.c .\ddinamico.c .\trataLivro.c .\v2palavras.c -lm
 
 ## Compilação Linux
 
-gcc -o NOME_DO_EXECUTAVEL main.c listase.c dicionarioestatico.c dicionariodinamico.c trataLivro.c v2palavras.c -lm
+gcc -o NOME_DO_EXECUTAVEL main.c listase.c dicionarioestatico.c ddinamico.c trataLivro.c v2palavras.c -lm
 
 ## Execução
 
