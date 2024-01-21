@@ -9,10 +9,10 @@ Este projeto tem como objetivo a implementação de um sistema eficiente para ma
 ### Integrantes do Grupo
 
 - Kaike Maciel
-- Ricardo Eliel
-- Jhonntha Carvalho
-- Lucas Martini
-- Paulo Ricardo
+- Ricardo Eliel - https://github.com/elieleli
+- Jhonnatha Carvalho - https://github.com/KuroKym
+- Lucas Martini - https://github.com/LucasLeiteMartini
+- Paulo Ricardo - https://github.com/revzera
 
 ### Funcionalidades Implementadas
 
